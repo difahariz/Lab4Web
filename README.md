@@ -2,7 +2,7 @@
 ## Profil
 | #               | Biodata           |
 | --------------- | ---------------------- |
-| **Nama**        | Difa Hariz Zhalfunas   |
+| **Nama**        | Difa Hariz Zhalfunnas  |
 | **NIM**         | 312110572              |
 | **Kelas**       | TI.21.A.1              |
 | **Mata Kuliah** | Pemrograman Web 2      |
